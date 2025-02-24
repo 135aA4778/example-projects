@@ -10,7 +10,7 @@ This project is a modern calculator built using the **C#** programming language.
 
 ## Installation and Execution Guide
 
-### Downloading the Files
+### Downloading the Files Manually
 **Note:** Due to the structure of the project, you need to download all the files manually.
 
 1. Navigate to the main page of the repository on GitHub.
@@ -20,7 +20,23 @@ This project is a modern calculator built using the **C#** programming language.
    - Right-click and choose **"Save as..."** to save the file.
 3. Repeat the above steps for all files in the project.
 
-### Running the Project
+### Using GitHub Desktop (Recommended)
+For a simpler and more streamlined process, you can use GitHub Desktop to clone and run the project:
+
+1. **Download and Install GitHub Desktop:**  
+   Visit [GitHub Desktop](https://desktop.github.com/) and install the application.
+
+2. **Clone the Repository:**
+   - Open GitHub Desktop and log in to your GitHub account.
+   - Click on **"File"** > **"Clone repository..."**.
+   - Enter the repository URL and choose a local folder where the project will be cloned.
+   - Click **"Clone"** to download the project automatically.
+
+3. **Run the Project:**
+   - Open the cloned project folder in your preferred development environment (such as Visual Studio).
+   - Build and run the project.
+
+### Running the Project Manually
 1. Place all the downloaded files into a single folder.
 2. Open the project folder in your preferred development environment (such as Visual Studio).
 3. Build and then run the project.
@@ -35,4 +51,5 @@ This project is a modern calculator built using the **C#** programming language.
 
 ---
 
-Author:A_D
+**Author:** [Your Name]  
+**Date:** [Date]
