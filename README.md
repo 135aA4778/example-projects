@@ -51,5 +51,5 @@ For a simpler and more streamlined process, you can use GitHub Desktop to clone 
 
 ---
 
-**Author:** [Your Name]  
-**Date:** [Date]
+Author:A_D  
+
