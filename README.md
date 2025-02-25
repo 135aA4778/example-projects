@@ -46,13 +46,11 @@ For a simpler and more streamlined process, you can use GitHub Desktop to clone 
 3. Build and then run the project.
 
 ## Prerequisites
-- **.NET Framework** or **.NET Core** (depending on project settings).
-- A development environment such as **Visual Studio** or **Visual Studio Code**.
--Use this if you have any problems or questions:https://github.com/135aA4778/example-projects/discussions
-
+- A development environment such as **Visual Studio 2015 or higher**
 ## Important Notes
 - If you encounter issues running the project, ensure that you have downloaded all files correctly.
 - This project is open source; contributions and suggestions to improve it are welcome.
+- Use this if you have any problems or questions:https://github.com/135aA4778/example-projects/discussions
 
 ---
 
