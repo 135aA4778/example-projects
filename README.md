@@ -48,6 +48,7 @@ For a simpler and more streamlined process, you can use GitHub Desktop to clone 
 ## Prerequisites
 - **.NET Framework** or **.NET Core** (depending on project settings).
 - A development environment such as **Visual Studio** or **Visual Studio Code**.
+-Use this if you have any problems or questions:https://github.com/135aA4778/example-projects/discussions
 
 ## Important Notes
 - If you encounter issues running the project, ensure that you have downloaded all files correctly.
