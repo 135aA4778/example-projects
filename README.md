@@ -47,7 +47,6 @@ For a simpler and more streamlined process, you can use GitHub Desktop to clone 
 
 ## Prerequisites
 - A development environment such as **Visual Studio 2015 or higher**
-https://github.com/135aA4778/example-projects/discussions
 ## Important Notes
 - If you encounter issues running the project, ensure that you have downloaded all files correctly.
 - This project is open source; contributions and suggestions to improve it are welcome.
