@@ -4,7 +4,8 @@ This project is a modern calculator built using the **C#** programming language.
 ![Screenshot 2025-02-25 140757](https://github.com/user-attachments/assets/57ba5cfa-23e8-4cc4-bc1b-47cb730e0c9a)
 
 
-![Uploading Screenshot 2025-02-25 140858.png…]()
+![Screenshot 2025-02-25 140858](https://github.com/user-attachments/assets/9d25e1c6-d237-4469-916c-a0bed2749bf0)
+
 ## Features
 - **Basic Mathematical Operations:** Addition, subtraction, multiplication, and division.
 - **Advanced Functions:** Percentage calculation, square root, logarithm, and trigonometric functions.
