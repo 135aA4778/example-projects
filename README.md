@@ -1,3 +1,4 @@
+![165390-plant-atmosphere-purple-natural_environment-natural_landscape-550x310](https://github.com/user-attachments/assets/84c0c889-5cd8-4cc2-9938-1ecb9c39b8b7)
 # Modern Calculator with C#
 
 This project is a modern calculator built using the **C#** programming language. The aim of this project is to provide a practical example of a desktop calculator with a sleek and user-friendly interface.
