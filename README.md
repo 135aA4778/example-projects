@@ -1,10 +1,10 @@
 # Modern Calculator with C#
 This project is a modern calculator built using the **C#** programming language. The aim of this project is to provide a practical example of a desktop calculator with a sleek and user-friendly interface.
 
-![Screenshot 2025-02-25 140757](https://github.com/user-attachments/assets/57ba5cfa-23e8-4cc4-bc1b-47cb730e0c9a)
+![Screenshot 2025-02-25 140757](https://github.com/user-attachments/assets/57ba5cfa-23e8-4cc4-bc1b-47cb730e0c9a)  ![Screenshot 2025-02-25 140858](https://github.com/user-attachments/assets/9d25e1c6-d237-4469-916c-a0bed2749bf0)        
 
 
-![Screenshot 2025-02-25 140858](https://github.com/user-attachments/assets/9d25e1c6-d237-4469-916c-a0bed2749bf0)
+
 
 ## Features
 - **Basic Mathematical Operations:** Addition, subtraction, multiplication, and division.
